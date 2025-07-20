@@ -5,6 +5,7 @@ Este repositório contém um notebook Jupyter dedicado ao processo de **limpeza 
 ## 📁 Conteúdo do Repositório
 
 - `Limpeza_Tratamento_Dados.ipynb`: Notebook principal com o passo a passo de limpeza dos dados.
+- `Churn.csv`: Base de dados não tratada.
 
 ## 🚧 Status do Projeto
 ✅ Concluído
